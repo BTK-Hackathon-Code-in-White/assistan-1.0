@@ -1,0 +1,10 @@
+google-generativeai
+langchain
+langchain-google-genai
+langchain-community
+fastapi
+uvicorn
+python-dotenv
+pandas
+sqlite-utils
+sqlalchemy

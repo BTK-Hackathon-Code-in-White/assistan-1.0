@@ -1,0 +1,40 @@
+Backend Altında: uvicorn main:app --host 0.0.0.0 --port 8000
+
+FrontEnd/Client Altında: npm run dev
+
+
+pip install fastapi uvicorn python-dotenv google-generativeai
+
+FrontEnd Klasörünün Altında
+npm create vite@latest
+
+
+npm install
+npm install axios framer-motion
+npm install -D tailwindcss@3.4.1 postcss autoprefixer
+npx tailwindcss init -p
+
+npm install shadcn-ui@latest
+npx shadcn@latest init
+
+
+ShadCN hata verirse => jsconfig.json dosyası oluşturulacak (manuel)
+
+
+| Teknoloji                      | Amaç                                                                |
+| ------------------------------ | ------------------------------------------------------------------- |
+| **React**                      | Bileşen tabanlı kullanıcı arayüzünü oluşturmak için                 |
+| **Vite**                       | React projesini hızlı ve hafif şekilde başlatmak için               |
+| **Tailwind CSS**               | Hızlı ve esnek şekilde stil yazmak için (butonlar, arka plan vs.)   |
+| **Axios**                      | React frontend ile backend (FastAPI) arasında HTTP istekleri yapmak |
+| **ShadCN UI** *(isteğe bağlı)* | Modern UI bileşenleri (buton, form) — istersen sonra ekleyebiliriz  |
+
+
+| Teknoloji               | Amaç                                                                      |
+| ----------------------- | ------------------------------------------------------------------------- |
+| **FastAPI**             | Python ile yüksek performanslı web API’leri oluşturmak için               |
+| **Uvicorn**             | FastAPI sunucusunu çalıştırmak için ASGI uyumlu bir web sunucusu          |
+| **python-dotenv**       | `.env` dosyasındaki Gemini API anahtarını güvenli şekilde almak için      |
+| **google-generativeai** | Gemini API’ye erişmek ve yanıtları almak için                             |
+| **CORS Middleware**     | Frontend (localhost:5173) → Backend (localhost:8000) erişimini açmak için |
+
