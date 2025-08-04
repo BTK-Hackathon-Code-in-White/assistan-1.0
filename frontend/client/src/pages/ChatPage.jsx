@@ -323,7 +323,7 @@ export default function ChatPage() {
     setIsLoading(true);
 
     try {
-      const response = await axios.post("http://100.24.20.118:8000/chat", {
+      const response = await axios.post("http://34.234.109.220:8000/chat", {
         user_query: userInput,
         session_id: sessionId
       });
