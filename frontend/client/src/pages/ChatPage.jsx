@@ -323,7 +323,7 @@ export default function ChatPage() {
     setIsLoading(true);
 
     try {
-      const response = await axios.post("https://34.234.109.220:8000/chat", {
+      const response = await axios.post("https://cors-anywhere.herokuapp.com/https://34.234.109.220:8000/chat", {
         user_query: userInput,
         session_id: sessionId
       });
