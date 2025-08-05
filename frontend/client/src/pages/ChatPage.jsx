@@ -323,7 +323,7 @@ export default function ChatPage() {
     setIsLoading(true);
 
     try {
-      const response = await axios.post("http://34.234.109.220:8000/chat", {
+      const response = await axios.post("http://aracasistani.duckdns.org:8000/chat", {
         user_query: userInput,
         session_id: sessionId
       });
@@ -444,8 +444,8 @@ export default function ChatPage() {
             <div className="max-w-7xl mx-auto">
               <div className="flex items-center justify-between">
                 <div className="flex items-center space-x-4">
-                  <div className="w-12 h-12 bg-gradient-to-r from-blue-500 to-purple-500 rounded-xl flex items-center justify-center shadow-lg">
-                    <span className="text-2xl">🚗</span>
+                  <div className="w-12 h-12 rounded-xl flex items-center justify-center">
+                    <img src="/vite.svg" alt="Logo" className="w-20 h-20" />
                   </div>
                   <div>
                     <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
