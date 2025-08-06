@@ -14,6 +14,13 @@
 
 <br>
 
+## 🤖 Sistem Çalışma Diyagramı
+<img width="1753" height="522" alt="Ekran görüntüsü 2025-08-06 220751" src="https://github.com/user-attachments/assets/e2e1fe77-24ee-425e-b609-11c2d391a00c" />
+
+<br>
+
+<br>
+
 ## ✨ Öne Çıkan Özellikler
 
 - 💬 **Doğal Dil Anlama:** Karmaşık formlar yerine asistanla sohbet ederek araç sorgulayın. ("*Bana 500.000 TL altında, otomatik vitesli, aile için uygun bir SUV bul.*")
@@ -70,9 +77,6 @@ Tüm bu sistem, **Amazon EC2** sunucularında **Nginx** ile güvenilir ve kesint
 | **[DuckDNS](https://www.duckdns.org/)** | Dinamik IP adresini sabit bir alan adına yönlendirmek için. |
 
 ---
-
-## 🤖 Sistem Çalışma Diyagramı
-<img width="1753" height="522" alt="Ekran görüntüsü 2025-08-06 220751" src="https://github.com/user-attachments/assets/e2e1fe77-24ee-425e-b609-11c2d391a00c" />
 
 
 Bu proje, güçlü teknik temelleri yenilikçi bir fikirle birleştirerek, araç satın alma sürecini herkes için erişilebilir, keyifli ve verimli hale getiren bütüncül bir çözüm sunmaktadır.
