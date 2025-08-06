@@ -75,6 +75,6 @@ def analyze_database():
         print(f"'{brand}': {count} ({percentage:.1f}%)")
     
     conn.close()
-
+#main function to run the analysis
 if __name__ == "__main__":
     analyze_database()
