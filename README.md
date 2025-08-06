@@ -10,6 +10,10 @@
 
 **İkinci El Araçlar için Sanal Asistan**, bu geleneksel ve verimsiz arama sürecine modern bir çözüm sunar. Projemiz, kullanıcıları statik formların ve soğuk filtre menülerinin kısıtlamalarından kurtararak, süreci akıcı, sezgisel ve etkileşimli bir sohbete dönüştürür. Artık "ne aradığınızı" bir arama kutusuna yazmak yerine, "ne istediğinizi" doğrudan sanal asistanımıza anlatabilirsiniz. Bu yaklaşım, sadece bir arama yapmaktan öte, cebinizde size özel çalışan kişisel bir araç uzmanıyla konuşma deneyimi sunarak, tüm süreci kökten değiştirmeyi hedefler.
 
+
+![Site](./site.gif)
+
+
 <br>
 
 <br>
