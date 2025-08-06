@@ -71,4 +71,8 @@ Tüm bu sistem, **Amazon EC2** sunucularında **Nginx** ile güvenilir ve kesint
 
 ---
 
+## 🤖 Sistem Çalışma Diyagramı
+<img width="1753" height="522" alt="Ekran görüntüsü 2025-08-06 220751" src="https://github.com/user-attachments/assets/e2e1fe77-24ee-425e-b609-11c2d391a00c" />
+
+
 Bu proje, güçlü teknik temelleri yenilikçi bir fikirle birleştirerek, araç satın alma sürecini herkes için erişilebilir, keyifli ve verimli hale getiren bütüncül bir çözüm sunmaktadır.
