@@ -1,6 +1,6 @@
 # 🚗 İkinci El Araçlar için Sanal Asistan
 
-Araç Satın Alma Asistanı, ikinci el araçlar hakkında detaylı bilgi alabileceğiniz ve ihtiyaçlarınıza uygun aracı kolayca bulabileceğiniz bir projedir. Kullanıcılar, bu asistanla sohbet ederek kendi tercihleri doğrultusunda araçlar hakkında bilgi alabilir, filtreleme yapabilir ve doğrudan satın alma linklerine ulaşabilir.
+Araç Satın Alma Asistanı, ikinci el araçlar hakkında detaylı bilgi alabileceğiniz ve ihtiyaçlarınıza uygun aracı kolayca bulabileceğiniz bir projedir. Kullanıcılar, bu asistanla sohbet ederek, arabam.com sitesinden çekilmiş araba bilgilerinin bulunduğu veri tabanını kullanarak, kendi tercihleri doğrultusunda araçlar hakkında bilgi alabilir, filtreleme yapabilir ve doğrudan satın alma linklerine ulaşabilir.
 
 ## ✨ Özellikler
 
