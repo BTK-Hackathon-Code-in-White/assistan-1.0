@@ -31,6 +31,7 @@ Araç Satın Alma Asistanı, ikinci el araçlar hakkında detaylı bilgi alabile
 - [Google Gemini API](https://ai.google.dev/)
 - [SQLite](https://www.sqlite.org/)
 - [Uvicorn](https://www.uvicorn.org/)
+- [Selenium For Web Scrapping](https://www.selenium.dev/)
 - [CORS Middleware](https://fastapi.tiangolo.com/tutorial/cors/)
 
 ### 🔹 Sunucu ve Dağıtım
